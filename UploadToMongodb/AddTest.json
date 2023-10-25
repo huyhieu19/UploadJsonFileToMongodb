@@ -1,0 +1,122 @@
+[
+  {
+    "word": "@a",
+    "spell": "/ei, ə/",
+    "data": [
+      {
+        "partOfSpeech": "danh từ,  số nhiều as,  a's",
+        "meanings": [
+          {
+            "definition": "(thông tục) loại a, hạng nhất, hạng tốt nhất hạng rất tốt",
+            "details": [
+              "his health is a+ sức khoẻ anh ta vào loại a"
+            ]
+          },
+          {
+            "definition": "(âm nhạc) la",
+            "details": [
+              "a sharp+ la thăng",
+              "a flat+ la giáng"
+            ]
+          },
+          {
+            "definition": "người giả định thứ nhất; trường hợp giả định thứ nhất",
+            "details": [
+              "from a to z+ từ đầu đến đuôi, tường tận",
+              "not to know a from b+ không biết tí gì cả; một chữ bẻ đôi cũng không biết"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "mạo từ",
+        "meanings": [
+          {
+            "definition": "một; một (như kiểu); một (nào đó)",
+            "details": [
+              "a very cold day+ một ngày rất lạnh",
+              "a dozen+ một tá",
+              "a few+ một ít",
+              "all of a size+ tất cả cùng một cỡ",
+              "a Shakespeare+ một (văn hào như kiểu) Sếch-xpia",
+              "a Mr Nam+ một ông Nam (nào đó)"
+            ]
+          },
+          {
+            "definition": "cái, con, chiếc, cuốn, người, đứa...;",
+            "details": [
+              "a cup+ cái chén",
+              "a knife+ con dao",
+              "a son of the Party+ người con của Đảng",
+              "a Vietnamese grammar+ cuốn ngữ pháp Việt Nam"
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "giới từ",
+        "meanings": [
+          {
+            "definition": "mỗi, mỗi một",
+            "details": [
+              "twice a week+ mỗi tuần hai lần"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "@a",
+    "spell": "font /ɑ:'fɜ:ɳ/",
+    "data": [
+      {
+        "partOfSpeech": "phó từ",
+        "meanings": [
+          {
+            "definition": "thấu triệt, cặn kẽ, rõ ngọn nghành",
+            "details": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "@a",
+    "spell": "fortiori /'ei,fɔ:ti'ɔ:rai/",
+    "data": [
+      {
+        "partOfSpeech": "phó từ",
+        "meanings": [
+          {
+            "definition": "huống hồ, huống là",
+            "details": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "@a",
+    "spell": "posteriori /'eipɔs,teri'ɔ:rai/",
+    "data": [
+      {
+        "partOfSpeech": "phó từ & tính từ",
+        "meanings": [
+          {
+            "definition": "theo phép quy nạp",
+            "details": [
+              "method a_posteriori+ phương pháp quy nạp"
+            ]
+          },
+          {
+            "definition": "hậu nghiệm",
+            "details": [
+              "probability a_posteriori+ (toán học) xác suất hậu nghiệm"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
